@@ -4,10 +4,10 @@ from aiogram.utils import executor
 import random
 import datetime
 import asyncio
-
+from config import TOKEN
 import os
 
-TOKEN = "6127733344:AAE8dVlw86p6kt1BqtXFqb8KPgsi6wIxHbo"
+
 bot = Bot(token=TOKEN)
 
 dp = Dispatcher(bot)
