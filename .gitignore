@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 Dockerfile
-config.py*
+config*
 # C extensions
 *.so
 
